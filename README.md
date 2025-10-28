@@ -12,7 +12,7 @@
 ---
 
 ## 📍 Sales revenue by store location  
-*Astoria and Lower Manhatton contributes roughly one third of total sales showing a balanced performance across branches. However, Hell’s Kitchen generates a higher share (34%)suggesting a higher customer volume.
+Astoria and Lower Manhatton contributes roughly one third of total sales showing a balanced performance across branches. However, Hell’s Kitchen generates a higher share (34%)suggesting a higher customer volume.
 
 ---
 
