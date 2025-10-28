@@ -22,7 +22,7 @@ June recorded the highest revenue, while January was the lowest at R27,821 – o
 ---
 
 ## 📊 Total revenue by product category  
-*Detail how you break down revenue by categories (e.g., espresso, brewed coffee, pastries, merchandise). Show which categories are driving revenue, which are underperforming, how category mix changes across locations or months.*
+*Detail how you break down revenue by categories (e.g., espresso, brewed coffee, pastries, merchandise). Show which categories are driving revenue, which are underperforming, how category mix changes across locations or months.
 
 ---
 
