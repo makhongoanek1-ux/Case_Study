@@ -11,8 +11,8 @@ Transaction_date,
     CASE 
         WHEN Transaction_time BETWEEN '06:00:00' AND '11:59:59' THEN 'Morning'
         WHEN Transaction_time BETWEEN '12:00:00' AND '16:59:59' THEN 'Afternoon'
-        WHEN Transaction_time BETWEEN '17:00:00' AND '23:59:59' THEN 'Evening'
-        ELSE 'Other'
+        WHEN Transaction_time BETWEEN '17:00:00' AND '19:59:59' THEN 'Evening'
+        WHEN Transaction_time >= '20:00:00' THEN 'Night'
     END AS Time_bucket,
     HOUR(Transaction_time) AS Hour_of_day,
     Store_Location,
@@ -41,3 +41,4 @@ GROUP BY
     Product_Category,
     Product_Detail,
     Product_Type;
+
