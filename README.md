@@ -40,7 +40,23 @@ Time of Day: Morning hours (56%) are the most profitable, while evening sales (1
 ---
 
 ## 📝 Recommendations  
-Based on the insights, propose actionable recommendations: for example, focus marketing on lagging branches, promote high-margin product categories, adjust staffing or opening hours to match peak time buckets, etc.
+
+Based on the sales insights, here are actionable strategies to drive revenue and customer engagement:
+
+### 1. Introduce Seasonal Specials
+- Offer limited-time drinks to create urgency and excitement (e.g., pumpkin spice in autumn, iced matcha in summer).
+
+### 2. Localized Promotions
+- Run neighborhood-specific campaigns such as **“Astoria Appreciation Week”** to deepen community ties and encourage repeat visits.
+
+### 3. Referral Incentives
+- Reward customers who bring friends with discounts or free drinks to increase foot traffic and loyalty.
+
+### 4. Social Media Challenges
+- Launch Instagram or TikTok campaigns like **“Best Latte Art”** or **“Tea Time Trivia”** to boost engagement and brand visibility.
+
+### 5. Customer Feedback Loop
+- Use surveys or QR-code feedback forms to gather insights on customer preferences and improve offerings.
 
 ---
 
