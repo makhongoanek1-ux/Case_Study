@@ -48,20 +48,6 @@ Based on the insights, propose actionable recommendations: for example, focus ma
 - Thanks to anyone who provided or collected the sales data, supported this project, or inspired the analysis.  
 - Credit to any libraries, frameworks or tools used.
 
-## 📁 Project Files
-
-### Input Files
-- **Objective Description - Information File**: Details the objectives of the exercise and tasks to be executed.  
-- **Bright Coffee Shop Sales - Input Data CSV File**: Contains sales data from January to June 2025.
-
-### Working Files
-- **Sales Analysis - Output Data XLSX File**: SQL output used to create visuals in the 'Sales Analysis' tab.  
-- **Project Plan - Progress File**: Detailed project plan and timeline.
-
-### Output Files
-- **Results Final Report - Output File**: Contains detailed analysis and recommendations.  
-- **Coffee Shop SQL Script - Output SQL File**: Complete SQL code developed for the project.  
-- **Coffee Shop Python Script - Output Python File**: Python code for data processing and visualization.
 ---
 
 ## 🛠️ Tools & Technologies
