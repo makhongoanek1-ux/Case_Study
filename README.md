@@ -17,7 +17,7 @@
 ---
 
 ## 📅 Monthly store performance  
-*June recorded the highest revenue, while January was the lowest at R27,821 – only 49% of June’s sales. Possible cause: post-holiday slowdown in January and increased demand in June since it is winter.                                                                                                                 *
+June recorded the highest revenue, while January was the lowest at R27,821 – only 49% of June’s sales. Possible cause: post-holiday slowdown in January and increased demand in June since it is winter.                                                                                                                 *
 
 ---
 
