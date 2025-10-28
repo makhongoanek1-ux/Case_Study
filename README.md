@@ -1,5 +1,5 @@
 # ☕ Coffee Shop Sales Analysis  
-> This repository includes a comprehensive analysis of sales data from a coffee shop chain with three branches, covering the period from January to June 2025. It focuses on identifying revenue trends, understanding customer behavior, and developing insights to enhance sales growth.
+> This repository includes a comprehensive analysis of sales data from a coffee shop chain with three branches, covering the period from January to June 2023. It focuses on identifying revenue trends, understanding customer behavior, and developing insights to enhance sales growth.
 
 ## Table of Contents  
 - [📍 Sales revenue by store location](#sales‐revenue‐by‐store‐location)  
