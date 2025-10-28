@@ -49,11 +49,11 @@ Time of Day: Morning hours (56%) are the most profitable, while evening sales (1
 - Thanks to anyone who provided or collected the sales data, supported this project, or inspired the analysis.  
 - Credit to any libraries, frameworks or tools used.
 
-- ## 📁 Project Files
+## 📁 Project Files
 
 ### Input Files
 - **Objective Description - Information File**: Details the objectives of the exercise and tasks to be executed.  
-- **Bright Coffee Shop Sales - Input Data CSV File**: Contains sales data from January to June 2023.
+- **Bright Coffee Shop Sales - Input Data CSV File**: Contains sales data from January to June 2025.
 
 ### Working Files
 - **Sales Analysis - Output Data XLSX File**: SQL output used to create visuals in the 'Sales Analysis' tab.  
@@ -63,14 +63,13 @@ Time of Day: Morning hours (56%) are the most profitable, while evening sales (1
 - **Results Final Report - Output File**: Contains detailed analysis and recommendations.  
 - **Coffee Shop SQL Script - Output SQL File**: Complete SQL code developed for the project.  
 - **Coffee Shop Python Script - Output Python File**: Python code for data processing and visualization.
-
 ---
 
 ## 🛠️ Tools & Technologies
 - **SQL (Standard)**
 - **Snowflake Cloud Platform**
 - **MS Excel**
-- **Python (Google Colab)**
+  
 
 
 
