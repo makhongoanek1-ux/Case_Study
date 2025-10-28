@@ -44,12 +44,6 @@ Based on the insights, propose actionable recommendations: for example, focus ma
 
 ---
 
-## Recommendations  
-- Thanks to anyone who provided or collected the sales data, supported this project, or inspired the analysis.  
-- Credit to any libraries, frameworks or tools used.
-
----
-
 ## 🛠️ Tools & Technologies
 - **SQL (Standard)**
 - **Snowflake Cloud Platform**
