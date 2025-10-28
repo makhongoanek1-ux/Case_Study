@@ -12,7 +12,7 @@
 ---
 
 ## 📍 Sales revenue by store location  
-*Astoria and Lower Manhatton contributes roughly one third of total sales showing a balanced performance across branches. However, Hell’s Kitchen generates a higher share (34%)suggesting a higher customer volume.*
+*Astoria and Lower Manhatton contributes roughly one third of total sales showing a balanced performance across branches. However, Hell’s Kitchen generates a higher share (34%)suggesting a higher customer volume.
 
 ---
 
@@ -27,20 +27,20 @@ June recorded the highest revenue, while January was the lowest at R27,821 – o
 ---
 
 ## ⏱️ Total revenue by time buckets  
-*Morning (06:00–11:59) generates 55,6% confirming it as the strongest performing period of the day. Afternoon (12:00–16:59) generates 29,3% showing consistent mid-day activity. Evening (17:00–23:59) generates 15,1% revenue indicating reduced customer engagement later in the day. The trend suggests a clear morning peak, likely driven by coffee and breakfast product demand.*
+Morning (06:00–11:59) generates 55,6% confirming it as the strongest performing period of the day. Afternoon (12:00–16:59) generates 29,3% showing consistent mid-day activity. Evening (17:00–23:59) generates 15,1% revenue indicating reduced customer engagement later in the day. The trend suggests a clear morning peak, likely driven by coffee and breakfast product demand.
 
 ---
 
 ## 💡 Insights  
-*Revenue Growth: Sales show a steady rise from January (R81K) to June (R166K) — an increase of over 100%, indicating strong mid-year momentum.
+Revenue Growth: Sales show a steady rise from January (R81K) to June (R166K) — an increase of over 100%, indicating strong mid-year momentum.
 Top Locations: Revenue is well-balanced across stores — Hell’s Kitchen (34%), Astoria (33%), and Lower Manhattan (33%) — showing consistent performance.
 Product category: Coffee (40%) and Tea (31%) dominate total revenue, together driving over 70% of sales.
-Time of Day: Morning hours (56%) are the most profitable, while evening sales (15%) are lowest, aligning with strong morning coffee demand.*
+Time of Day: Morning hours (56%) are the most profitable, while evening sales (15%) are lowest, aligning with strong morning coffee demand.
 
 ---
 
 ## 📝 Recommendations  
-*Based on the insights, propose actionable recommendations: for example, focus marketing on lagging branches, promote high-margin product categories, adjust staffing or opening hours to match peak time buckets, etc.*
+Based on the insights, propose actionable recommendations: for example, focus marketing on lagging branches, promote high-margin product categories, adjust staffing or opening hours to match peak time buckets, etc.
 
 ---
 
